@@ -1,0 +1,54 @@
+NLP usually stands for Natural Language Processing.
+
+It’s a field of artificial intelligence (AI) that helps computers understand, interpret, and generate human language (text or speech).
+
+What NLP is used for
+
+You’ve probably already used NLP without realizing it:
+
+Chatbots & voice assistants (like Siri or ChatGPT)
+
+Spam filters in email
+
+Autocorrect & grammar checkers
+
+Translation apps (e.g., Google Translate)
+
+Search engines
+
+Sentiment analysis (detecting emotions in text)
+
+What NLP tries to do
+
+NLP combines linguistics + computer science + machine learning to handle tasks like:
+
+Understanding meaning of sentences
+
+Recognizing names, places, dates
+
+Answering questions
+
+Summarizing text
+
+Converting speech ↔ text
+
+Simple example
+
+Text: “I’m feeling sick today.”
+NLP can:
+
+Detect the topic (health)
+
+Detect sentiment (negative)
+
+Trigger a helpful response or recommendation
+
+If you want, I can explain NLP from a specific angle:
+
+👶 beginner-friendly
+
+💻 programming (Python, libraries like spaCy / NLTK)
+
+🤖 how ChatGPT uses NLP
+
+📚 school project help
